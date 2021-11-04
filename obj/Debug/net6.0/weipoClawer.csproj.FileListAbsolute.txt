@@ -1,0 +1,16 @@
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\weipoClawer.exe
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\weipoClawer.deps.json
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\weipoClawer.runtimeconfig.json
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\weipoClawer.dll
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\ref\weipoClawer.dll
+E:\vscode hub\weipoClawer\bin\Debug\net6.0\weipoClawer.pdb
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.GlobalUsings.g.cs
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.csproj.AssemblyReference.cache
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.AssemblyInfoInputs.cache
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.AssemblyInfo.cs
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.csproj.CoreCompileInputs.cache
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.dll
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\ref\weipoClawer.dll
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.pdb
+E:\vscode hub\weipoClawer\obj\Debug\net6.0\weipoClawer.genruntimeconfig.cache
